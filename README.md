@@ -2,7 +2,7 @@
 
 Offline, browser-based secret & sensitive data scanner for source code. Single HTML file, no install, no server, no telemetry. Your code never leaves the browser.
 
-> 🇹🇷 Kaynak kodda secret ve hassas veri arayan, tamamen tarayıcıda çalışan tarayıcı. Tek HTML dosyası; kurulum, sunucu veya veri gönderimi yok. Türkçe özet aşağıda.
+> Kaynak kodun içerisinde secret veya hassas veri arayan, tamamen tarayıcı da çalışan bir Tool. Tek HTML dosyası; kurulum, sunucu veya veri gönderimi yok. Tamamen sizin makinenizde çalışır.
 
 ## Features
 
