@@ -55,14 +55,6 @@ pragma: allowlist secret
 - Multi-word passphrases may be classified as natural-language text (INFO)
 - Private keys are flagged on the `BEGIN` line only
 
-## Türkçe özet
-
-- `index.html` dosyasını indirip tarayıcıda aç veya GitHub Pages ile yayınla.
-- Kod yapıştır ya da dosya/klasör sürükle-bırak. Kod hiçbir yere gönderilmez.
-- `password="password"` gibi label tanımları **INFO** olarak işaretlenir ve varsayılan olarak gizlidir.
-- `changeme` / `admin123` gibi zayıf değerler **LOW** olarak raporlanır, çünkü default credential olabilirler.
-- Değerler varsayılan olarak maskelidir, dışa aktarımlar da öyle.
-
 ## License
 
 MIT © 2026 Serkan Yıldırım
